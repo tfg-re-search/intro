@@ -1,4 +1,4 @@
-# Título
+# Línea de trabajo
 
 ## Profesores implicados 
 
@@ -14,7 +14,11 @@
 - Herramientas informáticas
 - Iniciación a la investigación
 
-## Breve descripción de líneas 
+## Breve descripción 
+
+(se usará en la página principal también)
+
+## Descripción de líneas 
 
 ### Línea 1
 
