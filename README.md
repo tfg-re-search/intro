@@ -1,4 +1,4 @@
-# Introducción
+# TFG(Re)Search
 
 Este repositorio recoge los resultados del proyecto *TFG(Re)Search*.
 
