@@ -10,6 +10,8 @@ Los objetivos planteados van más allá de la mera difusión de resultados.
 
 En primer lugar, se pretende hacer llegar a los estudiantes las áreas de interés de los numerosos grupos investigadores, que conozcan qué se investiga en la universidad. No se trata de que se presenten los últimos resultados en el campo, sino de mostrar problemas que sean acercamientos a esa temática en particular, y total o parcialmente, abordables en un TFG. 
 
+Ver [programa de la primera sesión de charlas](https://github.com/tfg-re-search/intro/blob/main/Programa_Sesion_1.md).
+
 Se ponen de esta manera los medios para alcanzar el siguiente objetivo, que es incentivar la propuesta de TFGs relacionados con temáticas punteras en investigación, de forma que sea el interés mutuo alumno/profesor el que sirva de guía para la elaboración del proyecto de TFG.
 
 Por último, los resúmenes de estas charlas pueden ser ser germen de la publicaciones adaptadas a un público más amplio en las que transmita a la sociedad el [alto nivel de investigación en Matemáticas en la UGR](https://www.ugr.es/universidad/noticias/ugr-vuelve-liderar-espana-cuarto-ano-consecutivo-investigacion-matematicas#:~:text=Seg%C3%BAn%20la%20%C3%BAltima%20edici%C3%B3n%20del,100%20primeras%20universidades%20del%20mundo).
