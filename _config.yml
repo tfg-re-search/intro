@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: [TFG(Re)Search]
 description: [Página del proyecto de innovación docente para Trabajos de Fin de Grado en Matemáticas de la Universidad de Granada]
+include:
+  - README.md
+  - Programa_Sesion_1.md
