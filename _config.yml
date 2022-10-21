@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+defaultLang: es
 relative_links:
   enabled: true
   collections: true
