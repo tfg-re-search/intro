@@ -1,7 +1,7 @@
 # Sesión 1
 
-*Día y hora* viernes 28 de octubre de 2022 de 12:30h a 13:30-14h  
-*Lugar* Edificio de Física, zona del péndulo Foucault.
+*Día y hora*: viernes 28 de octubre de 2022 de 12:30h a 13:30-14h  
+*Lugar*: Edificio de Física, zona del péndulo Foucault
 
 *Ponentes*:
 1. [Maribel Berenguer](https://investigacion.ugr.es/ugrinvestiga/static/Buscador/*/investigadores/ficha/26603) 
