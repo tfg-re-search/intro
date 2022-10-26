@@ -9,3 +9,4 @@
 3. [Juan José Nieto](https://investigacion.ugr.es/ugrinvestiga/static/Buscador/*/investigadores/ficha/28208)
 4. [Joaquín Sánchez](https://investigacion.ugr.es/ugrinvestiga/static/Buscador/*/investigadores/ficha/27118), [Polinomios Ortogonales y Aplicaciones](https://tfg-re-search.github.io/lineas/mapli/polinomios-ort.html) 
 
+En la web [https://mateapli.ugr.es/investigacion/grupos](https://mateapli.ugr.es/investigacion/grupos) está disponible el listado completo de grupos de investigación del [Departamento de Matemática Aplicada](https://mateapli.ugr.es/).
