@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # Participantes en el proyecto
 * Antonia María Delgado Amaro, 
 * Pedro A. García Sánchez, 
