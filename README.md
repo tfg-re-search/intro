@@ -1,4 +1,4 @@
-![logo](assets/img/logo-tri-simple.png)
+![logo](assets/img/logo-tri-simple.svg)
 
 Este repositorio recoge los resultados del proyecto *TFG(Re)Search*.
 
