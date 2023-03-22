@@ -13,8 +13,8 @@ Se ponen de esta manera los medios para alcanzar el siguiente objetivo, que es i
 Durante la ejecución del proyecto se impartirán una serie de charlas (véase [programa de la tercera sesión de charlas](./Programa_Sesion_3.html)) en las que representantes de las líneas de investigación activas en matemáticas de nuestra universidad explicarán a los alumnos asistentes su trabajo. Los resúmenes de estas charlas pueden ser ser germen de la publicaciones adaptadas a un público más amplio en las que transmita a la sociedad el [alto nivel de investigación en Matemáticas en la UGR](https://www.ugr.es/universidad/noticias/ugr-vuelve-liderar-espana-cuarto-ano-consecutivo-investigacion-matematicas#:~:text=Seg%C3%BAn%20la%20%C3%BAltima%20edici%C3%B3n%20del,100%20primeras%20universidades%20del%20mundo).
 
 Por ahora se han impartido dos sesiones:
-- [Primera sesión de charlas](./Programa_Sesion_1.html)
-- [Segunda sesión de charlas](./Programa_Sesion_2.html)
+- [Primera sesión de charlas](./Programa_Sesion_1.html),
+- [Segunda sesión de charlas](./Programa_Sesion_2.html).
 
 Las líneas propuestas se pueden consultar en este [enlace](https://tfg-re-search.github.io/lineas).
 
