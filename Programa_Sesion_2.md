@@ -4,10 +4,10 @@
 *Lugar*: Edificio de Física, zona del péndulo Foucault
 
 *Ponentes*:
-1. [Antonio Alarcón](https://investigacion.ugr.es/ugrinvestiga/static/Buscador/*/investigadores/ficha/48164),
-2. [Francisco Torralbo](https://investigacion.ugr.es/ugrinvestiga/static/Buscador/*/investigadores/ficha/53935), 
-3. [Ana Hurtado](https://investigacion.ugr.es/ugrinvestiga/static/Buscador/*/investigadores/ficha/57208), 
-4. [José Antonio Gálvez](https://investigacion.ugr.es/ugrinvestiga/static/Buscador/*/investigadores/ficha/23258),
-5. [Alfonso Romero](https://investigacion.ugr.es/ugrinvestiga/static/Buscador/*/investigadores/ficha/23264). 
+1. [Antonio Alarcón](https://geometry.ugr.es/informacion/directorio-personal/antonio-alarcon-lopez),
+2. [Francisco Torralbo](https://geometry.ugr.es/informacion/directorio-personal/francisco-torralbo-torralbo), 
+3. [Ana Hurtado](https://geometry.ugr.es/informacion/directorio-personal/ana-maria-hurtado-cortegana), 
+4. [José Antonio Gálvez](https://geometry.ugr.es/informacion/directorio-personal/jose-antonio-galvez-lopez),
+5. [Alfonso Romero](https://geometry.ugr.es/informacion/directorio-personal/alfonso-romero-sarabia). 
 
 Estos y otros grupos se pueden encontrar en el [listado completo de grupos de investigación](https://geometry.ugr.es/investigacion/grupos) del [Departamento de Geometría y Topología](https://geometry.ugr.es/).
