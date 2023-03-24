@@ -4,7 +4,7 @@
 *Lugar*: Edificio de Física, zona del péndulo Foucault
 
 *Ponentes*:
-1. [Antonio Alarcón](https://geometry.ugr.es/informacion/directorio-personal/antonio-alarcon-lopez) [Análisis Geométrico](https://tfg-re-search.github.io/lineas/geom/analisisgeometrico.html) ,
+1. [Antonio Alarcón](https://geometry.ugr.es/informacion/directorio-personal/antonio-alarcon-lopez), [Análisis Geométrico](https://tfg-re-search.github.io/lineas/geom/analisisgeometrico.html)
 2. [Francisco Torralbo](https://geometry.ugr.es/informacion/directorio-personal/francisco-torralbo-torralbo), 
 3. [Ana Hurtado](https://geometry.ugr.es/informacion/directorio-personal/ana-maria-hurtado-cortegana), 
 4. [José Antonio Gálvez](https://geometry.ugr.es/informacion/directorio-personal/jose-antonio-galvez-lopez),
