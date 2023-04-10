@@ -10,11 +10,12 @@ Los objetivos planteados van más allá de la mera difusión de resultados. En p
 
 Se ponen de esta manera los medios para alcanzar el siguiente objetivo, que es incentivar la propuesta de TFGs relacionados con temáticas punteras en investigación, de forma que sea el interés mutuo alumno/profesor el que sirva de guía para la elaboración del proyecto de TFG.
 
-Durante la ejecución del proyecto se impartirán una serie de charlas (véase [programa de la tercera sesión de charlas](./Programa_Sesion_3.html)) en las que representantes de las líneas de investigación activas en matemáticas de nuestra universidad explicarán a los alumnos asistentes su trabajo. Los resúmenes de estas charlas pueden ser ser germen de la publicaciones adaptadas a un público más amplio en las que transmita a la sociedad el [alto nivel de investigación en Matemáticas en la UGR](https://www.ugr.es/universidad/noticias/ugr-vuelve-liderar-espana-cuarto-ano-consecutivo-investigacion-matematicas#:~:text=Seg%C3%BAn%20la%20%C3%BAltima%20edici%C3%B3n%20del,100%20primeras%20universidades%20del%20mundo).
+Durante la ejecución del proyecto se impartirán una serie de charlas (véase [programa de la cuarta sesión de charlas](./Programa_Sesion_4.html)) en las que representantes de las líneas de investigación activas en matemáticas de nuestra universidad explicarán a los alumnos asistentes su trabajo. Los resúmenes de estas charlas pueden ser ser germen de la publicaciones adaptadas a un público más amplio en las que transmita a la sociedad el [alto nivel de investigación en Matemáticas en la UGR](https://www.ugr.es/universidad/noticias/ugr-vuelve-liderar-espana-cuarto-ano-consecutivo-investigacion-matematicas#:~:text=Seg%C3%BAn%20la%20%C3%BAltima%20edici%C3%B3n%20del,100%20primeras%20universidades%20del%20mundo).
 
-Por ahora se han impartido dos sesiones:
+Por ahora se han impartido tres sesiones:
 - [Primera sesión de charlas](./Programa_Sesion_1.html),
-- [Segunda sesión de charlas](./Programa_Sesion_2.html).
+- [Segunda sesión de charlas](./Programa_Sesion_2.html),
+- [Tercera sesión de charlas](./Programa_Sesion_3.html).
 
 Las líneas propuestas se pueden consultar en este [enlace](https://tfg-re-search.github.io/lineas).
 
