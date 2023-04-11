@@ -4,7 +4,7 @@
 *Lugar*: Aula A14, Facultad de Ciencias
 
 *Ponentes*:
-1. [Christian J. Acal González](https://estadistica.ugr.es/informacion/directorio-personal/christian-jose-acal-gonzalez),[Análisis de Datos Funcionales](stad/DatosFuncionales.md)
+1. [Christian J. Acal González](https://estadistica.ugr.es/informacion/directorio-personal/christian-jose-acal-gonzalez), [Análisis de Datos Funcionales](stad/DatosFuncionales.md)
 2. [Desirée Romero Molina](https://estadistica.ugr.es/informacion/directorio-personal/desire-romero-molina), 
 3. [María del Mar Rueda García](https://estadistica.ugr.es/informacion/directorio-personal/maria-del-mar-rueda-garcia), 
 4. [Juan Eloy Ruiz Castro](https://estadistica.ugr.es/informacion/directorio-personal/juan-eloy-ruiz-castro),
