@@ -19,4 +19,6 @@ Por ahora se han impartido tres sesiones:
 
 Las líneas propuestas se pueden consultar en este [enlace](https://tfg-re-search.github.io/lineas).
 
+Además el TFG puede ser aprovechado como una herramienta de divulgación de conocimiento a la sociedad si se emplean los [canales apropiados](./TFG_Divulga.html).
+
 **TFG(Re)Search** es el *Proyecto de Innovación Docente nº22-136* concedido en la [Convocatoria de Proyectos de Innovación Docente y Buenas Prácticas del Plan FIDO UGR 2022-2023](https://calidad.ugr.es/sites/webugr/calidad/public/ficheros/Formaci%C3%B3n%20e%20innovaci%C3%B3n/Innovaci%C3%B3n/resolucion%C2%A0definitiva%C2%A0Avanzados-Coordinados%C2%A02022.pdf) de la [Unidad de Calidad, Innovación Docente y Prospectiva](https://calidad.ugr.es/) de la [Universidad de Granada](https://www.ugr.es) (véase [listado de profesorado participante](./Participantes.html)).
